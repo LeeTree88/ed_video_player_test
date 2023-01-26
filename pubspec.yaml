@@ -28,6 +28,10 @@ dependencies:
       url: https://github.com/LeeTree88/ed_video_player_android_test.git
       ref: "acf1a3f"
 #   video_player_avfoundation: ^2.2.17
+  video_player_avfoundation:
+    git:
+      url: https://github.com/LeeTree88/ed_video_player_avfoundation_test.git
+      ref: "11055ca"
   video_player_platform_interface:
     git:
       url: https://github.com/LeeTree88/ed_video_player_platform_interface_test.git
